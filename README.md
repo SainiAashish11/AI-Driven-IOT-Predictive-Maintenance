@@ -25,5 +25,5 @@ An Industrial IoT edge dashboard that simulates a Cognitive Digital Twin for aer
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SainiAashish11/AI-Driven-IOT-Predictive-Maintenance.git]([https://github.com/your-username/your-repo-name](https://github.com/SainiAashish11/AI-Driven-IOT-Predictive-Maintenance).git)
+   git clone https://github.com/SainiAashish11/AI-Driven-IOT-Predictive-Maintenance.git
    cd AI-Driven-IOT-Predictive-Maintenance
